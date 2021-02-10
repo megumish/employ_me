@@ -7,7 +7,9 @@ IT技術者のポジションでの雇用を第一に考えていますが、そ
 # 連絡先
 
 twitter: megumish_unsafe
+
 facebook: k.megumi.sh
+
 email: megumish☆exploitouri.st (:s/☆/@/)
 
 # 職務経歴
