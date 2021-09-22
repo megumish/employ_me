@@ -19,6 +19,7 @@
 - AWS
 - git
 - GitHub
+- Amazon CDK
 
 ## 作業環境に関わる技術
 - MacOS
