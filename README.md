@@ -7,7 +7,7 @@ IT技術者のポジションでの雇用を第一に考えていますが、そ
 
 # 希望年収
 
-直近での額面はフルタイムワーカーとして700万円/年でした。
+直近での額面はフルタイムワーカーとして650万円/年でした。
 
 フルタイム600万円～のポジションだとありがたいです。
 
@@ -17,7 +17,7 @@ twitter: megumish_unsafe
 
 facebook: k.megumi.sh
 
-email: megumish☆exploitouri.st (:s/☆/@/)
+email: Kk-shli☆outlook.com (:s/☆/@/)
 
 # 職務経歴
 
