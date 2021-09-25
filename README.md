@@ -17,7 +17,7 @@ twitter: megumish_unsafe
 
 facebook: k.megumi.sh
 
-email: Kk-shli☆outlook.com (:s/☆/@/)
+email: Kk-shli☆outlook.jp (:s/☆/@/)
 
 # 職務経歴
 
